@@ -2,4 +2,6 @@
   "manifest_version": 3,
   "name": "highlight-me",
   "version": "1.0",
+    "description": "A Chrome extension for ChatGPT",
+  "permissions": ["storage", "tabs"]
 }
