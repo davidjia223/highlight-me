@@ -3,5 +3,8 @@
   "name": "highlight-me",
   "version": "1.0",
     "description": "A Chrome extension for ChatGPT",
-  "permissions": ["storage", "tabs"]
+  "permissions": ["storage", "tabs"],
+  "action": {
+    "default_popup": "open.html"
+  }
 }
